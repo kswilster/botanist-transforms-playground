@@ -1,0 +1,21 @@
+{
+  "bucketMetadata": [
+    {
+      "bucketId": "4ccc09d6-e67f-4453-9303-4c42527f2776",
+      "bucketName": "Control",
+      "isControl": true
+    },
+    {
+      "bucketId": "211321bd-d4ec-4eca-baa7-6e7aa878703b",
+      "bucketName": "Variant 1",
+      "isControl": false
+    }
+  ],
+  "reports": {
+    "report": {},
+    "reportSegmentedByDevice": {},
+    "reportSegmentedByAge": {},
+    "reportSegmentedByGender": {},
+    "reportGroupedByCampaigns": {}
+  }
+}
